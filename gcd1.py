@@ -1,4 +1,4 @@
-def gcd(m,n):
+def gcd(m,n):# naive approach 
     fm= []
     for i in range (1, m+1):
         if (m%i)==0:
