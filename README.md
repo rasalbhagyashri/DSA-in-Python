@@ -1,1 +1,1 @@
-a minor degree course 
+Minor degree course 
