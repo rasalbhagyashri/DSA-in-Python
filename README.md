@@ -1,1 +1,1 @@
-Minor Degree course 
+Minor Degree Course 
